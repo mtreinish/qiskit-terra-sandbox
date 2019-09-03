@@ -17,6 +17,7 @@ The format is based on [Keep a Changelog].
 
 ### Changed
 - use bot
+- use bot again
 
 ### Fixed
 -   Fixed a bug in drawing conditional gates with matplotlib circuit drawer.
