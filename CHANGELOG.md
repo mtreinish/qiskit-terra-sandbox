@@ -20,6 +20,7 @@ The format is based on [Keep a Changelog].
 - use bot again
 - bot bot bot
 - bot bot bot bot
+- bot bot bot bot bot
 
 ### Fixed
 -   Fixed a bug in drawing conditional gates with matplotlib circuit drawer.
