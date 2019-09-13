@@ -16,9 +16,9 @@ The format is based on [Keep a Changelog].
 ## [UNRELEASED]
 
 ### Changed
-- bot
 - use bot
-- use bot again
+- bot
+- bot bot
 - bot bot bot
 - bot bot bot bot
 - bot bot bot bot bot
