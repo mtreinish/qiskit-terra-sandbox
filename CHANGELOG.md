@@ -25,8 +25,7 @@ The format is based on [Keep a Changelog].
 - bot bot bot bot bot bot
 - bot bot bot bot bot bot bot
 - bot bot bot bot bot bot bot bot
-
-
+- bot bot bot bot bot bot bot bot bot
 
 ### Fixed
 -   Fixed a bug in drawing conditional gates with matplotlib circuit drawer.
