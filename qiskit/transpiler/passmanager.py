@@ -10,6 +10,8 @@
 # copyright notice, and modified files need to carry a notice indicating
 # that they have been altered from the originals.
 
+# pointless comment
+
 """Manager for a set of Passes and their scheduling during transpilation."""
 
 from typing import Union, List, Callable, Dict, Any
